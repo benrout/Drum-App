@@ -1,2 +1,2 @@
 # Drum-App
-Play the drums on your PC!
+Use your keyboard to play the drums on your PC!
