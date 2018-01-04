@@ -44,7 +44,7 @@ h2 {
   transition: all .1s ease;
   width: 5rem;
   color: white;
-  background: rgba(0,0,0,0.1);
+  background: rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 .5rem black;
   display: block;
 }
